@@ -6,6 +6,7 @@ import spwrap.DAO;
 import java.math.BigDecimal;
 import java.util.List;
 
+// example from https://docs.oracle.com/javase/tutorial/jdbc/basics/storedprocedures.html
 public class Main {
 
     public static void main(String[] args) {
