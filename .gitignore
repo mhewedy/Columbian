@@ -1,0 +1,11 @@
+.idea
+*.iml
+.DS_Store
+.classpath
+.project
+.settings/
+target/
+coverage-error.log
+.gradle/
+build/
+out/
